@@ -1,0 +1,1 @@
+The only two files I edited for HW0 were HW0Runner.java and Conts.java. I added a few lines of code to the HW0Runner class but the bulk of my new code is in Conts.java. Placing the two files into src/java/uchidb should make all of the tests pass.
